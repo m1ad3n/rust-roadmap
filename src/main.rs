@@ -1,5 +1,7 @@
 #![allow(dead_code)]
 
+mod hello_test;
+
 use std::io::{stdin, stdout, Write};
 use cached::proc_macro::cached;
 
