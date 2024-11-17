@@ -1,9 +1,6 @@
 #![cfg(test)]
 
-use crate::basics::fib;
-use crate::basics::factorial;
-use crate::basics::count_sentences;
-use crate::basics::count_words;
+use ::rust_roadmap::*;
 
 #[test]
 fn fib_test() {

@@ -1,5 +1,4 @@
 mod basics;
-mod basics_test;
 mod file_info;
 
 fn main() {
